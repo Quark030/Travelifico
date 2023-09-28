@@ -53,4 +53,10 @@ If you have any questions about this project, feel free to contact me:
 
 ## Repo link:
 
-https://github.com/Quark030/Professional-README-Generator.git
+https://github.com/Quark030/Travelifico
+
+## Deployed app: 
+
+https://git.heroku.com/frozen-taiga-14576.git
+
+
